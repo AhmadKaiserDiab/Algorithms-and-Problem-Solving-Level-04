@@ -1,6 +1,6 @@
 # Intro
 This Repo Contains My Solution for "Course 08 - Algorithms & Problem Solving - Level 04 " From [ProgrammingAdvices.Com](https://programmingadvices.com/)
-The Solution Method Foucesed on "Divide & Conquer" , "Clean Code" and "OOP" Principles
+The Solution Method Foucesed on "Divide & Conquer" and "Clean Code" Principles
 
 # What's Inside
 
